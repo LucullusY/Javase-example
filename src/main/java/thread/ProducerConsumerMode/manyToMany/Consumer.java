@@ -1,6 +1,6 @@
 package thread.ProducerConsumerMode.manyToMany;
 
-import thread.ProducerConsumerMode.oneToOne.ValueObject;
+import thread.ProducerConsumerMode.tools.ValueObject;
 
 /**
  * Description:
